@@ -85,7 +85,7 @@ ExampleXX/
 │   └── tolEntr.dat              # 离散总熵随时间变化
 ├── figure/                      # 论文中对应的结果图
 │   ├── result.eps               # 矢量图
-│   └── result.png               # 矢量图
+│   └── result.jpg               # 预览图
 ```
 ### 技术栈
 - **编程语言**：C++11（核心算法实现）、MATLAB（数据可视化）
